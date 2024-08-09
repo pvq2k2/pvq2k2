@@ -215,25 +215,27 @@
     />
   </a>
 </p>
-<span>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pvq2k2&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+    alt="pvq2k2"
+  />
+</p>
+
+<p>
 <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=pvq2k2&show_icons=true&locale=en&theme=tokyonight"
     alt="pvq2k2"
   />
-</span>
+</p>
 
-<span>
+<p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=pvq2k2&theme=tokyonight"
     alt="pvq2k2"
   />
-</span>
-<span>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pvq2k2&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="pvq2k2"
-  />
-</span>
+</p>
